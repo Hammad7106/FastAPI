@@ -16,6 +16,8 @@ FastAPI Project Setup Guide
 
 8- Test Cases are in tests directory 
 
-9- Run Tests by this command python -m pytest --asyncio-mode=auto         
+9- Run Tests by this command python -m pytest --asyncio-mode=auto        
+
+10- For Swagger and Documentation you can go to baseurl/doc and baseurl/redoc repectively
 
 
