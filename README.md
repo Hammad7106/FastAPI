@@ -4,7 +4,7 @@ FastAPI Project Setup Guide
 
 2- For Database Connection, Go to database.py and add your database url. Similarly go to alembic.ini and paster your Database URL
 
-3- To run the project go to fastapi_project directory by cd fastapi_project then cd fastapi_project
+3- To run the project go to fastapi_project directory by cd fastapi_project then run command poetry run uvicorn fastapi_project.main:app --reload   
 
 4- In main.py there are all the Endpoints for Users and Candidates
 
